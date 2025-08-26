@@ -1,6 +1,5 @@
 const mensajes = [
   "Estoy aprendiendo JavaScript ",
-  "Soy una persona curiosa y práctica. Me gusta aprender cosas nuevas, desde programación en python y Java. También me interesa ver peliculas y hago proyectos sencillos, como construir. En lo personal, tengo el cabello castaño oscuro casi negro, piel blanca que suele enrojecerse y ojos café oscuro. Me suele estresar algunas cosas como del día a día el tráfico de Lima",
   "Me llama la atencion el diseño web ",
   "La práctica hace al maestro"
 ];
